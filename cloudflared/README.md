@@ -6,7 +6,7 @@ __Maintainer:__ @termux
 
 __Installed-Size:__ 25.1 MB
 
-__Homepage:__ https://github.com/cloudflare/cloudflared
+__Homepage:__ https://www.cloudflare.com/
 
 __Download-Size:__ 5715 kB
 
