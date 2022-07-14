@@ -5,7 +5,7 @@
 $ apt update; apt upgrade -y
 ```
 ```
-$ apt install apache2 cloudflared -y
+$ apt install cloudflared apache2 -y
 ```
 
 ### Run
