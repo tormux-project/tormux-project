@@ -2,7 +2,7 @@
 
 is a project to learn about _system hacking activities_ with `Termux`.
 
-__Donate for a cup of coffee__ ☕
+# Donate for a cup of coffee ☕
 
 __BUSD (BEP20):__
 
