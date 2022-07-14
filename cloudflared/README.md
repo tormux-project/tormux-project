@@ -19,10 +19,13 @@ __APT-Sources:__ https://packages.termux.dev/apt/termux-main stable/main aarch64
 
 __Description:__ `A tunneling daemon that proxies traffic from the Cloudflare network to your origins`
 
-
-
 # Donate for a cup of coffee ☕🥯
 
-__BUSD (BEP20):__
+### BUSD (`BEP20`):
 
-<a href="https://metamask.io/"> 0xc37e1014230433a704bd0111ab853e682f07b794 </a>
+```
+0xc37e1014230433a704bd0111ab853e682f07b794
+```
+
+![metamask](https://i.ibb.co/C0HGYDQ/metamask.png)
+
