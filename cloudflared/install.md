@@ -22,10 +22,14 @@ $ cloudflared http 8080
 
 * Copy `trycloudflare.com` url link and paste it in your browser
 
-### Stop
+# Stop
+
+__Cloudflared__
 ```
 CTRL + C
 ```
+
+__Apache server__
 ```
 $ apachectl stop
 ```
