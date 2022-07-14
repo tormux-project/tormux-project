@@ -1,11 +1,13 @@
 # Cloudflared Termux
 
-__Termux Update & Upgrade__
+# Installing apache2 server & cloudflared tunnel
 
-`$ apt update; apt upgrade -y`
+```
+$ apt update; apt upgrade -y
+```
+```
+$ apt install apache2 cloudflared -y
+```
 
-__Install__ _Apache2 Server & Cloudflared:_
-
-`$ apt install cloudflared apache2 -y`
 
 
