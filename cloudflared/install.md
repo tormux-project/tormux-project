@@ -20,4 +20,4 @@ $ cloudflared http 8080
 
 * Your quick `Tunnel` has been `created`! Visit it at (it may take some time to be reachable):
 
-Copy `https://url.trycloudflare.com` and paste it in your browser
+* Copy `trycloudflare.com` and paste it in your browser
