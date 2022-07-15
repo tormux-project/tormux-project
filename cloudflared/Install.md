@@ -4,9 +4,6 @@
 ```
 $ apt update; apt upgrade -y
 ```
-```
-$ apt install cloudflared -y
-```
 
 * Install `nginx` web server
 ```
