@@ -1,26 +1,26 @@
-## Postgresql Termux
+# Postgresql Termux
 
-Package: postgresql
+__Package:__ postgresql
 
-Version: 14.2-4
+__Version:__ 14.2-4
 
-Maintainer: @termux
+__Maintainer:__ @termux
 
-Installed-Size: 26.8 MB
+__Installed-Size:__ 26.8 MB
 
-Depends: openssl, libcrypt, readline, libandroid-shmem, libuuid, libxml2, libicu, zlib
+__Depends:__ openssl, libcrypt, readline, libandroid-shmem, libuuid, libxml2, libicu, zlib
 
-Breaks: postgresql-contrib (<= 10.3-1), postgresql-dev
+__Breaks:__ postgresql-contrib (<= 10.3-1), postgresql-dev
 
-Replaces: postgresql-contrib (<= 10.3-1), postgresql-dev
+__Replaces:__ postgresql-contrib (<= 10.3-1), postgresql-dev
 
-Homepage: https://www.postgresql.org
+__Homepage:__ https://www.postgresql.org
 
-Download-Size: 5442 kB
+__Download-Size:__ 5442 kB
 
-APT-Manual-Installed: yes
+__APT-Manual-Installed:__ yes
 
-APT-Sources: https://packages.termux.dev/apt/termux-main stable/main aarch64 Packages
+__APT-Sources:__ https://packages.termux.dev/apt/termux-main stable/main aarch64 Packages
 
 Description: Object-relational SQL database
 
