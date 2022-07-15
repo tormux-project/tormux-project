@@ -14,9 +14,12 @@ $ apt install nginx -y
 ```
 
 ### Run
+* Nginx web server
 ``` 
 $ nginx
 ```
+
+* CLoudflared tunnel
 ```
 $ cloudflared http 8080
 ```
