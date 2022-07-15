@@ -41,5 +41,6 @@ $ apt install nano
 ```
 nano $PREFIX/etc/apache2/httpd.conf
 ```
+![apache-port](https://i.ibb.co/F8JZFKd/apacheport.jpg)
 
 
