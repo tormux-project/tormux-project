@@ -29,6 +29,10 @@ $ apachectl start
 ```
 
 ### Port Listening
+* Default `port` is `80`
+* You can change the port
+* Install `nano text editor`
+
 ```
 $ apt install nano
 ```
@@ -36,4 +40,4 @@ $ apt install nano
 nano $PREFIX/etc/apache2/httpd.conf
 ```
 
-* You can change the port you want
+
