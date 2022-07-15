@@ -15,10 +15,10 @@ $ apachectl start
 
 ### Setup
 ```
-echo "ServerName localhost" >> $PREFIX/etc/apache2/
+echo "ServerName localhost" >> $PREFIX/etc/apache2
 ```
 
-* __Stop apache2___
+* __Stop apache2__
 ```
 $ apachectl stop
 ```
@@ -27,3 +27,13 @@ $ apachectl stop
 ```
 $ apachectl start
 ```
+
+### Port Listening
+```
+$ apt install nano
+```
+```
+nano $PREFIX/etc/apache2/httpd.conf
+```
+
+* You can change the port you want
