@@ -12,3 +12,18 @@ $ apt install apache2 -y
 $ apachectl start
 ```
 ![apache2](https://i.ibb.co/ZH9CRvR/apache2.jpg)
+
+### Setup
+```
+echo "ServerName localhost" >> $PREFIX/etc/apache2/
+```
+
+* __Stop apache2___
+```
+$ apachectl stop
+```
+
+* __Run apache2__
+```
+$ apachectl start
+```
