@@ -5,12 +5,17 @@
 $ apt update; apt upgrade -y
 ```
 ```
-$ apt install cloudflared apache2 -y
+$ apt install cloudflared -y
+```
+
+* Install `nginx` web server
+```
+$ apt install nginx -y
 ```
 
 ### Run
 ``` 
-$ apachectl start
+$ nginx
 ```
 ```
 $ cloudflared http 8080
@@ -29,7 +34,7 @@ __Cloudflared__
 CTRL + C
 ```
 
-__Apache server__
+__Nginx server__
 ```
-$ apachectl stop
+$ nginx -s stop
 ```
