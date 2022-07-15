@@ -63,4 +63,5 @@ Enter
 127.0.0.1:8081
 ```
 
+![browser](https://i.ibb.co/T8KVJRc/browser.jpg)
 
