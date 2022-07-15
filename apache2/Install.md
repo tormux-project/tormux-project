@@ -62,3 +62,9 @@ Enter
 
 ![browser](https://i.ibb.co/T8KVJRc/browser.jpg)
 
+### Apache2 Index Page
+```
+cd $PREFIX/share/apache2/default-site/htdocs
+```
+* change the index page with basic knowledge of `html` or `php`
+
