@@ -22,6 +22,6 @@ __APT-Manual-Installed:__ yes
 
 __APT-Sources:__ https://packages.termux.dev/apt/termux-main stable/main aarch64 Packages
 
-Description: Object-relational SQL database
+__Description:__ `Object-relational SQL database`
 
 
