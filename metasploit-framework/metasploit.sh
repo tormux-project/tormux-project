@@ -1,7 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash  clear
 echo "                                      
   Ｔ ｏ ｒ ｍ ｕ ｘ ~ Ｐ ｒ ｏ ｊ ｅ ｃ ｔ
-
 "                                           
 center() {
   termwidth=$(stty size | cut -d" " -f2)
