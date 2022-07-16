@@ -2,7 +2,7 @@
 
 ### Installation
 
-* `Wget` ( commandline tool for retrieving files using HTTP, HTTPS and FTP )
+* `Wget` ( commandline tool for retrieving files using _HTTP_, _HTTPS_ and _FTP_ )
 ```
 $ apt install wget
 ```
@@ -21,7 +21,7 @@ rm .termux/termux.properties
 mkdir .termux
 ```
 
-* Retrieving ``termux.properties`` file
+* Retrieving ``termux.properties`` file to folder `.termux`
 ```
-wget https://raw.githubusercontent.com/tormux-project/tormux-project/main/termux.properties/config/termux.properties
+wget https://raw.githubusercontent.com/tormux-project/tormux-project/main/termux.properties/config/termux.properties -P .termux
 ```
