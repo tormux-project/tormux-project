@@ -4,18 +4,14 @@ clear
 echo "
 Ｔ ｏ ｒ ｍ ｕ ｘ ~ Ｐ ｒ ｏ ｊ ｅ ｃ ｔ
 "
-
 center() {
   termwidth=$(stty size | cut -d" " -f2)
   padding="$(printf '%0.1s' ={1..500})"
   printf '%*.*s %s %*.*s\n' 0 "$(((termwidth-2-${#1})/2))" "$padding" "$1" 0 "$(((termwidth-1-${#1})/2))" "$padding"
 }
-
-# Loading spinner
 center " Loading..."
 source <(echo "c3Bpbm5lcj0oICd8JyAnLycgJy0nICdcJyApOwoKY291bnQoKXsKICBzcGluICYKICBwaWQ9JCEKICBmb3IgaSBpbiBgc2VxIDEgMTBgCiAgZG8KICAgIHNsZWVwIDE7CiAgZG9uZQoKICBraWxsICRwaWQgIAp9CgpzcGluKCl7CiAgd2hpbGUgWyAxIF0KICBkbyAKICAgIGZvciBpIGluICR7c3Bpbm5lcltAXX07IAogICAgZG8gCiAgICAgIGVjaG8gLW5lICJcciRpIjsKICAgICAgc2xlZXAgMC4yOwogICAgZG9uZTsKICBkb25lCn0KCmNvdW50" | base64 -d)
-echo
-center "*** Dependencies installation..."
+echo center "*** Dependencies installation..."
 rm $PREFIX/etc/apt/sources.list.d/*
 apt purge ruby -y
 rm -fr $PREFIX/lib/ruby/gems
@@ -23,18 +19,14 @@ pkg upgrade -y -o Dpkg::Options::="--force-confnew"
 pkg install -y python autoconf bison clang coreutils curl findutils apr apr-util postgresql openssl readline libffi libgmp libpcap libsqlite libgrpc libtool libxml2 libxslt ncurses make ncurses-utils ncurses git wget unzip zip tar termux-tools termux-elf-cleaner pkg-config git ruby -o Dpkg::Options::="--force-confnew"
 python3 -m pip install --upgrade pip
 python3 -m pip install requests
-echo
-center "*** Ruby++dcmal ..."
+echo center "*** Ruby++dcmal ..."
 source <(curl -sL https://github.com/termux/termux-packages/files/2912002/fix-ruby-bigdecimal.sh.txt)
-echo
-center "*** Removing metasploit folder ..."
+echo center "*** Removing metasploit folder ..."
 rm -rf $PREFIX/opt/metasploit-framework
-echo
-center "*** Downloading ..."
+echo center "*** Downloading ..."
 cd $PREFIX/opt
 git clone https://github.com/rapid7/metasploit-framework.git --depth=1
-echo
-center "*** Installation ..."
+echo center "*** Installation ..."
 cd $PREFIX/opt/metasploit-framework
 # sed '/rbnacl/d' -i Gemfile.lock
 # sed '/rbnacl/d' -i metasploit-framework.gemspec
