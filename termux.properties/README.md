@@ -1,6 +1,6 @@
 ## Termux Properties
 
-The Termux terminal can be configured by editing the `~/.termux/termux.properties` file. This file uses a simple key=value property syntax.
+The Termux terminal can be configured by editing the `~/.termux/termux.properties` file. This file uses a simple _key=value_ property syntax.
 
 Lines beginning with # are comments and do not get executed. Most of the properties are included as comments in the file. Uncomment an existing line or add a new line to configure a property.
 
