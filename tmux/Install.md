@@ -32,3 +32,6 @@ Hold CTRL+B (don’t release it and hold one of the arrow keys — resize pane)
 ```
 CTRL+D close a single pane
 ```
+
+### More Information
+* [Tmux](https://man.openbsd.org/OpenBSD-current/man1/tmux.1)
