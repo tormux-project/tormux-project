@@ -45,22 +45,22 @@ __CRTL+2__ Next session terminal
 
 ### Handling Extra Keys
 
-__Ctrl+A__  Move cursor to the beginning of line
+__CTRL+A__  Move cursor to the beginning of line
 
-__Ctrl+C__  Abort (send SIGINT to) current process
+__CTRL+C__  Abort (send SIGINT to) current process
 
-__Ctrl+D__  Logout of a terminal session
+__CTRL+D__  Logout of a terminal session
 
-__Ctrl+E__  Move cursor to the end of line
+__CTRL+E__  Move cursor to the end of line
 
-__Ctrl+K__  Delete from cursor to the end of line
+__CTRL+K__  Delete from cursor to the end of line
 
-__Ctrl+U__  Delete from cursor to the beginning of line
+__CTRL+U__  Delete from cursor to the beginning of line
 
-__Ctrl+L__  Clear the terminal
+__CTRL+L__  Clear the terminal
 
-__Ctrl+Z__  Suspend (send SIGTSTP to) current process
+__CTRL+Z__  Suspend (send SIGTSTP to) current process
 
-__Ctrl+W__  Clear prompt before word (a word is a set of characters after a space)
+__CTRL+W__  Clear prompt before word (a word is a set of characters after a space)
 
 
