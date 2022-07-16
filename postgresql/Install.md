@@ -26,6 +26,5 @@ pg_ctl -D $PREFIX/var/lib/postgresql start
 ```
 pg_ctl -D $PREFIX/var/lib/postgresql stop
 ```
-
-
+* `Postgresql` can be run with __metasploit-framework__
 
