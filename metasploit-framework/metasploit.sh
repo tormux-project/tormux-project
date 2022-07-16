@@ -79,5 +79,5 @@ sed -i '14 {s/^/#/}' $PREFIX/lib/ruby/gems/3.1.0/gems/hrr_rb_ssh-0.4.2/lib/hrr_r
 
 echo
 center "*"
-echo -e "\033[32m Installation 100% \n Executing: msfconsole\033[0m"
+echo -e "\033[32m https://github.com/tormux-project/tormux-project \n Installation 100% \n Executing: msfconsole\033[0m"
 center "*"
