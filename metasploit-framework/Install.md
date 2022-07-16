@@ -15,6 +15,7 @@ $ chmod +x metasploit.sh
 ```
 
 ### Run
+* The script will _configure_ and _setup_ the `metasploit-framework` automatically
 
 ```
 ./metasploit.sh
