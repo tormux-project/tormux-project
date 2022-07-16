@@ -16,8 +16,6 @@ source <(echo "c3Bpbm5lcj0oICd8JyAnLycgJy0nICdcJyApOwoKY291bnQoKXsKICBzcGluICYKI
 echo
 center "*** Dependencies installation ..."
 
-rm $PREFIX/etc/apt/sources.list.d/*
-
 apt purge ruby -y
 rm -fr $PREFIX/lib/ruby/gems
 
