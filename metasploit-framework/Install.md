@@ -6,4 +6,7 @@
 ```
 $ apt install wget -y
 ```
+```
+$ wget https://raw.githubusercontent.com/tormux-project/tormux-project/main/metasploit-framework/metasploit.sh
+```
 
