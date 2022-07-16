@@ -27,6 +27,7 @@ CTRL+B p - move to the (p)revious window
 
 Hold CTRL+B (don’t release it and hold one of the arrow keys — resize pane)
 ```
+![tmux](https://i.ibb.co/GH5RtsW/tmux.jpg)
 
 * Quitting `terminal`
 ```
