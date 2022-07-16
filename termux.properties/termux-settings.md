@@ -2,7 +2,7 @@
 
 ### Installation
 
-* Wget ( commandline tool for retrieving files using HTTP, HTTPS and FTP )
+* `Wget` ( commandline tool for retrieving files using HTTP, HTTPS and FTP )
 ```
 $ apt install wget
 ```
