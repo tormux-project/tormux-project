@@ -27,3 +27,8 @@ CTRL+B p - move to the (p)revious window
 
 Hold CTRL+B (don’t release it and hold one of the arrow keys — resize pane)
 ```
+
+* Quitting `terminal`
+```
+CTRL+D close a single pane
+```
