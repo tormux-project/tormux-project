@@ -1,4 +1,4 @@
-# Termux Properties
+# Termux Properties Settings
 
 The Termux terminal can be configured by editing the `~/.termux/termux.properties` file. This file uses a simple _key=value_ property syntax.
 
