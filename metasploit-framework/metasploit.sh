@@ -1,4 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
+
 clear
 echo "                                      
   Ｔ ｏ ｒ ｍ ｕ ｘ ~ Ｐ ｒ ｏ ｊ ｅ ｃ ｔ
@@ -31,7 +32,7 @@ git clone https://github.com/rapid7/metasploit-framework.git --depth=1
 echo
 center "*** Installation! ..."
 cd $PREFIX/opt/metasploit-framework
-sed -i "277,\$ s/2.8.0/2.2.0/" Gemfile.lock
+sed - "277,\$ s/2.8.0/2.2.0/" Gemfile.lock
 gem install bundler
 sed 's|nokogiri (1.*)|nokogiri (1.8.0)|g' -i Gemfile.lock
 gem install nokogiri -v 1.8.0 -- --use-system-libraries
