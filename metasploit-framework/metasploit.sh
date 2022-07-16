@@ -28,8 +28,6 @@ cd $PREFIX/opt
 git clone https://github.com/rapid7/metasploit-framework.git --depth=1
 echo center "*** Installation ..."
 cd $PREFIX/opt/metasploit-framework
-# sed '/rbnacl/d' -i Gemfile.lock
-# sed '/rbnacl/d' -i metasploit-framework.gemspec
 sed -i "277,\$ s/2.8.0/2.2.0/" Gemfile.lock
 gem install bundler
 sed 's|nokogiri (1.*)|nokogiri (1.8.0)|g' -i Gemfile.lock
@@ -39,7 +37,6 @@ bundle update activesupport
 bundle update --bundler
 bundle install -j$(nproc --all)
 $PREFIX/bin/find -type f -executable -exec termux-fix-shebang \{\} \;
-# rm ./modules/auxiliary/gather/http_pdf_authors.rb
 if [ -e $PREFIX/bin/msfconsole ];then
         rm $PREFIX/bin/msfconsole
 fi
