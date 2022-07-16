@@ -21,3 +21,7 @@ $ chmod +x metasploit.sh
 ./metasploit.sh
 ```
 
+* If the `download` and `configuration` process is complete
+```
+msfconsole
+```
