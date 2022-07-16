@@ -20,7 +20,7 @@ $ chmod +x metasploit.sh
 ```
 ./metasploit.sh
 ```
-
+* Msf6 is ready to use and don't forget to run postgresql
 * If the `download` and `configuration` process is complete
 ```
 msfconsole
