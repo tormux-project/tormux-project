@@ -14,7 +14,7 @@ $ apt install apache2 -y
 ```
 
 ### Run
-* Apache2 web server
+* [Apache2](../apache2) web server
 ``` 
 $ apachectl start
 ```
