@@ -68,4 +68,4 @@ cd $PREFIX/share/apache2/default-site/htdocs
 ```
 * Change the index page with basic knowledge of `html` or `php`
 
-* Runnning apache2 http to https with [cloudflared](../cloudflared) tunnel
+* Runnning `apache2` _http_ to _https_ with [cloudflared](../cloudflared) tunnel
