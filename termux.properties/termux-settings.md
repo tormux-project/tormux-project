@@ -25,3 +25,8 @@ mkdir .termux
 ```
 wget https://raw.githubusercontent.com/tormux-project/tormux-project/main/termux.properties/config/termux.properties -P .termux
 ```
+
+### Reload Settings
+```
+termux-reload-settings
+```
