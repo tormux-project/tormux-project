@@ -8,10 +8,18 @@
 rm .termux/termux.properties
 ```
 
+* If the `.termux` folder doesn't exist then create the folder first
+
+```
+mkdir .termux
+```
+
 ### Installation
 
 * Wget ( commandline tool for retrieving files using HTTP, HTTPS and FTP )
-
+```
+$ apt install wget
+```
 ```
 wget https://raw.githubusercontent.com/tormux-project/tormux-project/main/termux.properties/config/termux.properties
 ```
