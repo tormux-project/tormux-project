@@ -33,15 +33,13 @@ termux-reload-settings
 
 ### Handling Terminal Sessions
 
-__CTRL+T__ Create session terminal
+__CTRL+T__ Create session
 
-__CTRL+N__ Rename session terminal
+__CTRL+N__ Rename session
 
-__CTRL+1__ Previous session terminal
+__CTRL+1__ Previous session
 
-__CRTL+2__ Next session terminal
-
-
+__CRTL+2__ Next session
 
 ### Handling Extra Keys
 
