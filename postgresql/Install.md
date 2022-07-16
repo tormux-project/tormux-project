@@ -17,14 +17,15 @@ initdb $PREFIX/var/lib/postgresql
 
 ### Run
 
-* Starting the database
+* `Starting` the `database`
 ```
 pg_ctl -D $PREFIX/var/lib/postgresql start
 ```
 
-* Stopping the database
+* `Stopping` the `database`
 ```
 pg_ctl -D $PREFIX/var/lib/postgresql stop
 ```
+
 
 
