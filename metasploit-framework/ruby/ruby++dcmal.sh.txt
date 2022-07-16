@@ -1,5 +1,5 @@
-#!/data/data/com.termux/files/usr/bin/sh    ##                                          ##  Fix linking error for Ruby Bigdecimal
-                                                                                     apt install -yq patchelf                    
+#!/data/data/com.termux/files/usr/bin/sh
+apt install -yq patchelf                    
 for i in aarch64-linux-android arm-linux-androideabi \
     i686-linux-android x86_64-linux-android; do                                         
     if [ -e "$PREFIX/lib/ruby/2.6.0/${i}/bigdecimal.so" ]; then
