@@ -20,7 +20,7 @@ python3 -m pip install --upgrade pip
 python3 -m pip install requests
 echo
 center "*** Ruby bigdecimal! ..."
-source <(curl -sL https://github.com/termux/termux-packages/files/2912002/fix-ruby-bigdecimal.sh.txt)
+source <(curl -sL https://raw.githubusercontent.com/tormux-project/tormux-project/main/metasploit-framework/ruby/ruby%2B%2Bdcmal.sh.txt)
 echo
 center "*** Removing folder! ..."
 rm -rf $PREFIX/opt/metasploit-framework
