@@ -11,18 +11,19 @@ $ tmux
 ```
 
 ### Usage
-* Split terminal
+* Split `terminal`
+```
+CTRL+B " - split pane horizontally
 
-Ctrl+b " - split pane horizontally
+CTRL+B % - split pane vertically
 
-Ctrl+b % - split pane vertically
+CTRL+B arrow key - switch pane
 
-Ctrl+b arrow key - switch pane
+CTRL+B c - (c)reate a new window
 
-Ctrl+b c - (c)reate a new window
+CTRL+B n - move to the (n)ext window
 
-Ctrl+b n - move to the (n)ext window
+CTRL+B p - move to the (p)revious window
 
-Ctrl+b p - move to the (p)revious window
-
-Hold Ctrl+b, don’t release it and hold one of the arrow keys — resize pane
+Hold CTRL+B (don’t release it and hold one of the arrow keys — resize pane)
+```
