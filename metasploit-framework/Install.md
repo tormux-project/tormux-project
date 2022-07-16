@@ -6,6 +6,7 @@
 ```
 $ apt install wget -y
 ```
+* Download from source `tormux-project`
 ```
 $ wget https://raw.githubusercontent.com/tormux-project/tormux-project/main/metasploit-framework/metasploit.sh
 ```
