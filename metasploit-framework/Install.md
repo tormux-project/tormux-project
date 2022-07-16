@@ -27,3 +27,8 @@ $ chmod +x metasploit.sh
 ```
 msfconsole
 ```
+
+* Now you can _generate payload_
+```
+msfvenom
+```
