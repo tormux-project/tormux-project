@@ -24,6 +24,7 @@ __APT-Sources:__ https://packages.termux.dev/apt/termux-main stable/main aarch64
 
 __Description:__ `Object-relational SQL database`
 
+# Donate for a cup of coffee ☕🥯
 
 ### BUSD (`BEP20`):
 
