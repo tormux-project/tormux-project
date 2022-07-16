@@ -1,6 +1,15 @@
 ## Tmux
 
-* Installation
+### Installation
 ```
-$ apt install tmux
+$ apt install tmux -y
 ```
+
+### Run
+```
+$ tmux
+```
+
+### Usage
+* Split terminal
+
