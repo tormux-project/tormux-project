@@ -31,6 +31,18 @@ wget https://raw.githubusercontent.com/tormux-project/tormux-project/main/termux
 termux-reload-settings
 ```
 
+### Handling Terminal Sessions
+
+__CTRL+T___ Create session terminal
+
+__CTRL+N___ Rename session terminal
+
+__CTRL+1__ Previous session terminal
+
+__CRTL+2__ Next session terminal
+
+
+
 ### Handling Extra Keys
 
 __Ctrl+A__  Move cursor to the beginning of line
