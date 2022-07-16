@@ -11,7 +11,7 @@ $ tmux
 ```
 
 ### Usage
-* Split `terminal`
+* Split `terminal` etc
 ```
 CTRL+B " - split pane horizontally
 
