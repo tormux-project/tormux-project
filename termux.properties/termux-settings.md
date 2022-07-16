@@ -4,7 +4,7 @@
 
 * `Wget` ( commandline tool for retrieving files using _HTTP_, _HTTPS_ and _FTP_ )
 ```
-$ apt install wget
+$ apt install wget -y
 ```
 
 ### Setup
