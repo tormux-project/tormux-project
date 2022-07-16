@@ -6,6 +6,8 @@ Lines beginning with # are comments and do not get executed. Most of the propert
 
 For changes to take effect after editing the properties file, either execute `termux-reload-settings` or restart Termux by closing all sessions and starting the application again.
 
+This file is useful for `additional key settings`, such as displaying up and down arrows etc.
+
 
 # Donate for a cup of coffee ☕🥯
 
