@@ -33,22 +33,22 @@ termux-reload-settings
 
 ### Handling Extra Keys
 
-Ctrl+A  Move cursor to the beginning of line
+__Ctrl+A__  Move cursor to the beginning of line
 
-Ctrl+C  Abort (send SIGINT to) current process
+__Ctrl+C__  Abort (send SIGINT to) current process
 
-Ctrl+D  Logout of a terminal session
+__Ctrl+D__  Logout of a terminal session
 
-Ctrl+E  Move cursor to the end of line
+__Ctrl+E__  Move cursor to the end of line
 
-Ctrl+K  Delete from cursor to the end of line
+__Ctrl+K__  Delete from cursor to the end of line
 
-Ctrl+U  Delete from cursor to the beginning of line
+__Ctrl+U__  Delete from cursor to the beginning of line
 
-Ctrl+L  Clear the terminal
+__Ctrl+L__  Clear the terminal
 
-Ctrl+Z  Suspend (send SIGTSTP to) current process
+__Ctrl+Z__  Suspend (send SIGTSTP to) current process
 
-Ctrl+W  Clear prompt before word (a word is a set of characters after a space)
+__Ctrl+W__  Clear prompt before word (a word is a set of characters after a space)
 
 
