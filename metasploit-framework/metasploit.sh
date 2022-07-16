@@ -1,4 +1,5 @@
-#!/data/data/com.termux/files/usr/bin/bash  clear
+#!/data/data/com.termux/files/usr/bin/bash
+clear
 echo "                                      
   Ｔ ｏ ｒ ｍ ｕ ｘ ~ Ｐ ｒ ｏ ｊ ｅ ｃ ｔ
 "                                           
