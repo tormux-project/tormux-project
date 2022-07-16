@@ -34,4 +34,4 @@ CTRL+D close a single pane
 ```
 
 ### More Information
-* [Tmux from OpenBSD](https://man.openbsd.org/OpenBSD-current/man1/tmux.1)
+* [Tmux] from OpenBSD manual page server(https://man.openbsd.org/OpenBSD-current/man1/tmux.1)
