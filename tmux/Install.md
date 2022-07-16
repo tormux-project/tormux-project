@@ -19,11 +19,11 @@ CTRL+B % - split pane vertically
 
 CTRL+B arrow key - switch pane
 
-CTRL+B c - (c)reate a new window
+CTRL+B C - (c)reate a new window
 
-CTRL+B n - move to the (n)ext window
+CTRL+B N - move to the (n)ext window
 
-CTRL+B p - move to the (p)revious window
+CTRL+B P - move to the (p)revious window
 
 Hold CTRL+B (don’t release it and hold one of the arrow keys — resize pane)
 ```
