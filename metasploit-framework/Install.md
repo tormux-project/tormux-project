@@ -22,7 +22,7 @@ $ chmod +x metasploit.sh
 ```
 
 * If the `download` and `configuration` process is complete
-* `Msf6` is ready to use and don't forget to run postgresql
+* `Msf6` is ready to use and don't forget to run [postgresql](../postgresql)
 
 ```
 msfconsole
