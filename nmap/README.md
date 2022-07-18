@@ -22,6 +22,8 @@ __APT-Sources:__ https://packages.termux.dev/apt/termux-main stable/main aarch64
 
 __Description:__ `Utility for network discovery and security auditing`
 
+# Donate for a cup of coffee ☕🥯
+
 ### BUSD (`BEP20`) ADDRESS:
 
 ```
