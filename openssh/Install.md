@@ -23,3 +23,10 @@ $ ssh -p 8022 tormuxproject@localhost
 ```
 
 ![openssh](https://i.ibb.co/Kyvj5Cp/openssh.jpg)
+
+* Stopping `ssh`
+```
+$ pkill sshd
+```
+
+### More Information
