@@ -18,4 +18,8 @@ $ nmap testphp.vulnweb.com
 
 * `-p` Only scan specified ports
 
+```
+$ nmap testphp.vulnweb.com -p80 -A
+```
+
 ![nmap](https://i.ibb.co/dGfKLSr/nmap.jpg)
