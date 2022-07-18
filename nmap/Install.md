@@ -16,4 +16,6 @@ $ nmap testphp.vulnweb.com
 
 * Try with `-A` _Enable OS detection_, _version detection_, _script scanning_, and _traceroute_
 
+* `-p` Only scan specified ports
+
 ![nmap](https://i.ibb.co/dGfKLSr/nmap.jpg)
