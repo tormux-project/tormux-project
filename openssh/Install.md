@@ -30,3 +30,4 @@ $ pkill sshd
 ```
 
 ### More Information
+* [openssh](https://wiki.termux.com/wiki/Remote_Access)
