@@ -6,7 +6,7 @@ $ apt install openssh
 ```
 * Before running `ssh` first create a `passwd` to _login_
 
-[passwd](https://i.ibb.co/fVWw9ch/passwd.jpg)
+![passwd](https://i.ibb.co/fVWw9ch/passwd.jpg)
 
 ### Run
 ```
