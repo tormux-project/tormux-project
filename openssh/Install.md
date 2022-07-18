@@ -15,7 +15,7 @@ $ sshd
 
 * Use [nmap](../nmap) to see if `ssh` is _running_
 * `ssh` on _termux_ running on port `8022`
-* For the user can be with any name
+* For the username ( anything )
 * Connect with other _devices_
 
 ```
@@ -30,4 +30,4 @@ $ pkill sshd
 ```
 
 ### More Information
-* [openssh](https://wiki.termux.com/wiki/Remote_Access) wiki.termux.com
+* [openssh](https://wiki.termux.com/wiki/Remote_Access) on wiki termux
