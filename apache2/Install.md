@@ -2,10 +2,7 @@
 
 ### Installation
 ```
-$ apt update; apt upgrade -y
-```
-```
-$ apt install apache2 -y
+$ apt install apache2
 ```
 
 ### Run
