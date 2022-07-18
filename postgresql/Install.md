@@ -28,3 +28,4 @@ pg_ctl -D $PREFIX/var/lib/postgresql stop
 ```
 * `Postgresql` can be run with [metasploit-framework](../metasploit-framework)
 
+* You can scan it with [nmap](../nmap) if the `port` is `running`
