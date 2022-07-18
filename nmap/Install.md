@@ -24,6 +24,8 @@ $ nmap testphp.vulnweb.com -p80 -A
 
 ![nmap](https://i.ibb.co/dGfKLSr/nmap.jpg)
 
+* Can be used to `scan` your `network` ( _localhost_ ), such as [postgresql](../postgresql), nginx, [apache2](../apache2), and ssh etc
+
 ### More Information
 
 * [Nmap](https://nmap.org/book/man.html) the network mapper
