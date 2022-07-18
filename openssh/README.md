@@ -1,23 +1,23 @@
 # OpenSSH
 
-Package: openssh
+__Package:__ openssh
 
-Version: 9.0p1-2
+__Version:__ 9.0p1-2
 
-Maintainer: @termux
+__Maintainer:__ @termux
 
-Installed-Size: 5104 kB
+__Installed-Size:__ 5104 kB
 
-Depends: krb5, ldns, libandroid-support, libedit, openssh-sftp-server, openssl, termux-auth, zlib
+__Depends:__ krb5, ldns, libandroid-support, libedit, openssh-sftp-server, openssl, termux-auth, zlib
 
-Conflicts: dropbear
+__Conflicts:__ dropbear
 
-Homepage: https://www.openssh.com/
+__Homepage:__ https://www.openssh.com/
 
-Download-Size: 744 kB
+__Download-Size:__ 744 kB
 
-APT-Manual-Installed: yes
+__APT-Manual-Installed:__ yes
 
-APT-Sources: https://packages.termux.dev/apt/termux-main stable/main aarch64 Packages
+__APT-Sources:__ https://packages.termux.dev/apt/termux-main stable/main aarch64 Packages
 
-Description: Secure shell for logging into a remote machine
+__Description:__ `Secure shell for logging into a remote machine`
