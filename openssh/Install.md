@@ -15,7 +15,7 @@ $ sshd
 
 * Use [nmap](../nmap) to see if `ssh` is _running_
 * `ssh` on _termux_ running on port `8022`
-* For the username ( anything )
+* For the _username_ ( anything )
 * Connect with other _devices_
 
 ```
