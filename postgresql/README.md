@@ -1,4 +1,4 @@
-# Postgresql Termux
+# Postgresql
 
 __Package:__ postgresql
 
