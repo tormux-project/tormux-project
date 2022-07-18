@@ -2,15 +2,12 @@
 
 ### Installation
 ```
-$ apt update; apt upgrade -y
-```
-```
-$ apt install cloudflared -y
+$ apt install cloudflared
 ```
 
 * Install `apache2` web server
 ```
-$ apt install apache2 -y
+$ apt install apache2
 ```
 
 ### Run
