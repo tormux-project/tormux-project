@@ -2,7 +2,7 @@
 
 ### Installation
 ```
-$ apt install tmux -y
+$ apt install tmux
 ```
 
 ### Run
