@@ -56,7 +56,7 @@ Enter
 ### Web Browser
 
 * Open your `browser`
-* You can scan it with [nmap](../nmap) if the port is running
+* You can scan it with [nmap](../nmap) if the `port` is `running`
 
 ![browser](https://i.ibb.co/T8KVJRc/browser.jpg)
 
