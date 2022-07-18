@@ -27,6 +27,7 @@ $ chmod +x metasploit.sh
 ```
 msfconsole
 ```
+![metasploit](https://i.ibb.co/JtxG5C8/metasploit.jpg)
 
 * Now you can _generate payload_
 ```
