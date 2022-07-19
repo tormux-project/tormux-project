@@ -29,7 +29,7 @@ $ ./nethunter
 
 ![nethunter](https://i.ibb.co/zZMLHTj/nethunter.jpg)
 
-* follow the steps and until the download is complete
+* Follow the steps and until the download is complete
 
 ### Usage
 
