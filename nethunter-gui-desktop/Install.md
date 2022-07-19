@@ -33,10 +33,13 @@ $ kex
 
 * Open the kex bvnc application and settings like this
 ```
+basic vnc
 title ( anything )
 vnc server ( localhost )
 port ( 5901 )
-vnc password ( kex passwd )
+vnc password ( your kex passwd ) *keep
+
+```
 
 
 ![bvnc](https://i.ibb.co/s234WtQ/bvnc.jpg)
