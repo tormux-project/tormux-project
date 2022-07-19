@@ -29,6 +29,8 @@ $ ./nethunter
 
 ![nethunter](https://i.ibb.co/zZMLHTj/nethunter.jpg)
 
+* follow the steps and until the download is complete
+
 ### Usage
 
 Open termux and type one of the following command
