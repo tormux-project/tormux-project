@@ -43,6 +43,7 @@ vnc password ( your kex passwd ) *keep
 
 ![bvnc](https://i.ibb.co/s234WtQ/bvnc.jpg)
 
+* __Nethunter gui desktop__ is ready
 
 ![kali](https://i.ibb.co/MswyhmR/kali.jpg)
 
