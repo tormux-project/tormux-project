@@ -22,5 +22,5 @@ $ nh
 $ kex passwd
 ```
 
-
+![passwd](https://i.ibb.co/kc6mxGH/passwd.jpg)
 
