@@ -4,6 +4,8 @@
 ```
 $ termux-setup-storage
 ```
+* `Termux-setup-storage` in order to have access to shared storage
+
 ```
 $ apt install wget
 ```
