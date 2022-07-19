@@ -49,5 +49,7 @@ Open termux and type one of the following command
 
 * `$ nethunter kex stop` stop Kali NetHunter Desktop Experience
 
+### More Information
 
+* You can run [nethunter gui desktop](../nethunter-gui-desktop) after installing nethunter rootless
 
