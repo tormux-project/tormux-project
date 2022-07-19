@@ -42,3 +42,8 @@ vnc password ( your kex passwd ) *keep
 * Then `connect` and _wait_
 
 ![bvnc](https://i.ibb.co/s234WtQ/bvnc.jpg)
+
+
+![kali](https://i.ibb.co/MswyhmR/kali.jpg)
+
+
