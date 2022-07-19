@@ -10,9 +10,16 @@
 
 ### Run
 
-* Open your _termux_
+* Open your _termux_ and type
+
 ```
 $ nh
+```
+
+* Set your kex passwd for `kex bvnc` on nethunter terminal
+
+```
+$ kex passwd
 ```
 
 
