@@ -17,7 +17,7 @@ $ sshd
 * `ssh` on _termux_ running on port `8022`
 * For the _username_ ( anything )
 * Connect with other _devices_
-* The tools used as in the picture are [../nethunter-rootless] and [../tmux]
+* The tools used as in the picture are [../nethunter-rootless](nethunter-rootless) and [../tmux](tmux)
 
 ```
 $ ssh -p 8022 tormuxproject@localhost
