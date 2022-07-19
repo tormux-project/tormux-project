@@ -29,6 +29,7 @@ $ ./nethunter
 
 ![nethunter](https://i.ibb.co/zZMLHTj/nethunter.jpg)
 
+### Usage
 
 * `$ nethunter -r` start Kali NetHunter cli as root
 
