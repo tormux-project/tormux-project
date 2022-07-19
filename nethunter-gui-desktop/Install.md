@@ -30,3 +30,6 @@ $ kex passwd
 $ kex
 ```
 ![vncserver](https://i.ibb.co/X7tyBKS/vncserver.jpg)
+
+
+![bvnc](https://i.ibb.co/s234WtQ/bvnc.jpg)
