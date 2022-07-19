@@ -19,3 +19,6 @@ $ ./nethunter
 
 ![nethunter](https://i.ibb.co/zZMLHTj/nethunter.jpg)
 
+*  `$ nethunter` start Kali NetHunter command line interface
+
+* `$ nethunter kex passwd` configure the KeX password (only needed before 1st use)
