@@ -51,4 +51,12 @@ vnc password ( your kex passwd ) *keep
 
 ![kali](https://i.ibb.co/MswyhmR/kali.jpg)
 
+* Stopping vncserver
+
+```
+$ kex stop
+```
+
+![kexstop](https://i.ibb.co/KhwzRpF/kexstop.jpg)
+
 
