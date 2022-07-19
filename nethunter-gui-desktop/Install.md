@@ -24,7 +24,7 @@ $ kex passwd
 
 ![passwd](https://i.ibb.co/kc6mxGH/passwd.jpg)
 
-* Starting _vncserver_
+* Start `vncserver` on port `5901`
 
 ```
 $ kex
