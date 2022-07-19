@@ -21,6 +21,8 @@ $ chmod +x nethunter
 
 * Give the file _permission_ to be _executed_
 
+### Run
+
 ```
 $ ./nethunter
 ```
