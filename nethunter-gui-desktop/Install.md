@@ -33,10 +33,14 @@ $ kex
 
 * Open the kex bvnc application and settings like this
 ```
-basic vnc
+type ( basic vnc )
+
 title ( anything )
+
 vnc server ( localhost )
+
 port ( 5901 )
+
 vnc password ( your kex passwd ) *keep
 ```
 * Then `connect` and _wait_
