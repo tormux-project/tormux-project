@@ -31,6 +31,8 @@ $ ./nethunter
 
 ### Usage
 
+Open termux and type one of the following command
+
 * `$ nethunter -r` start Kali NetHunter cli as root
 
 * `$ nethunter` start Kali NetHunter command line interface
