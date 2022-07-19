@@ -38,8 +38,7 @@ title ( anything )
 vnc server ( localhost )
 port ( 5901 )
 vnc password ( your kex passwd ) *keep
-
 ```
-
+* Then `connect` and _wait_
 
 ![bvnc](https://i.ibb.co/s234WtQ/bvnc.jpg)
