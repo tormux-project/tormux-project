@@ -24,3 +24,9 @@ $ kex passwd
 
 ![passwd](https://i.ibb.co/kc6mxGH/passwd.jpg)
 
+* Starting _vncserver_
+
+```
+$ kex
+```
+![vncserver](https://i.ibb.co/Wkc41cr/vncserver.jpg)
