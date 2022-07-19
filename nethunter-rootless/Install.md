@@ -37,9 +37,9 @@ Open termux and type one of the following command
 
 * `$ nh -r` start Kali NetHunter cli as root
 
-* `$ nethunter` start Kali NetHunter command line interface
+* `$ nethunter` start Kali NetHunter command line interface ( nonroot )
 
-* `$ nh` start Kali NetHunter command line interface
+* `$ nh` start Kali NetHunter command line interface ( nonroot )
 
 * `$ nethunter kex passwd` configure the KeX password (only needed before 1st use)
 
