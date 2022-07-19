@@ -14,9 +14,13 @@ $ apt install wget
 ```
 $ wget https://raw.githubusercontent.com/tormux-project/tormux-project/main/nethunter-rootless/config/nethunter
 ```
+
 ```
 $ chmod +x nethunter
 ```
+
+* Give the file _permission_ to be _executed_
+
 ```
 $ ./nethunter
 ```
