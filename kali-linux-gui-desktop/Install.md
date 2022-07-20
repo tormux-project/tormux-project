@@ -85,7 +85,7 @@ $ vncstart
 
 ### Vnc viewer
 
-![localhost](https://i.ibb.co/n1nFXfT/localhost-1.jpg)
+![localhost](https://i.ibb.co/MMycL11/lhost.jpg)
 
-![HQ](https://i.ibb.co/F30zdFn/HQ.jpg)
+![HQ](https://i.ibb.co/FVjX5JF/hq.jpg)
 
