@@ -87,5 +87,5 @@ $ vncstart
 
 ![localhost](https://i.ibb.co/n1nFXfT/localhost-1.jpg)
 
-
+![HQ](https://i.ibb.co/F30zdFn/HQ.jpg)
 
