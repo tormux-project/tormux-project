@@ -13,26 +13,26 @@ $ sudo apt install udisks2 xfce4 xfce4-whiskermenu-plugin qterminal dbus-x11 fir
 
 * Remove `udisks2.postinst` and echo with blank text
 ```
-sudo rm /var/lib/dpkg/info/udisks2.postinst
+$ sudo rm /var/lib/dpkg/info/udisks2.postinst
 ```
 ```
-echo "" >> /var/lib/dpkg/info/udisks2.postinst
+$ echo "" >> /var/lib/dpkg/info/udisks2.postinst
 ```
 
 * Configure ( _dpkg_ )
 ```
-sudo dpkg --configure -a
+$ sudo dpkg --configure -a
 ```
 ```
-apt-mark hold udisks2
+$ apt-mark hold udisks2
 ```
 
 * Remove _xstartup_ file and _adding bash script_ ( save it __CTRL+X Y ENTER__ )
 ```
-rm .vnc/xstartup
+$ rm .vnc/xstartup
 ```
 ```
-nano .vnc/xstartup
+$ nano .vnc/xstartup
 ```
 
 ![xstartup](https://i.ibb.co/8Y2RMD7/xstartup.jpg)
@@ -40,19 +40,29 @@ nano .vnc/xstartup
 ### Run
 
 * Make a command in `/usr/bin/` to make it easier to run _vncserver_ ( save it __CTRL+X Y ENTER__ )
+
 ```
-sudo nano /usr/bin/vncstart
+$ sudo nano /usr/bin/vncstart
 ```
+
 ```
 vncserver -geometry 1920x920 -xstartup /usr/bin/xfce4-session
 ```
+
+```
+$ sudo chmod +x /usr/bin/vncstart
+```
+
 ![vncstart](https://i.ibb.co/Cw4BcGc/vncstart.jpg)
 
 ```
 sudo nano /usr/bin/vncstop
 ```
+
 ```
 vncserver -geometry 1920x920 -xstartup /usr/bin/xfce4-session -kill :1
 ```
-
+```
+$ sudo chmod +x /usr/bin/vncstop
+```
 ![vncstop](https://i.ibb.co/k2ZRYK6/vncstop.jpg)
