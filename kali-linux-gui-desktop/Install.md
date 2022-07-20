@@ -35,6 +35,11 @@ $ rm .vnc/xstartup
 $ nano .vnc/xstartup
 ```
 
+```
+#!/bin/bash
+startxfce4 &
+```
+
 ![xstartup](https://i.ibb.co/8Y2RMD7/xstartup.jpg)
 
 ### Run
