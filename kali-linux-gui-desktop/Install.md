@@ -95,5 +95,6 @@ $ vncstart
 
 * `Vncstart` ( _password_ )
 
-![password](https://i.ibb.co/48v0j08/password.jpg)
+![pwd](https://i.ibb.co/5kW182p/pwd.jpg)
+
 
