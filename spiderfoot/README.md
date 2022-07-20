@@ -2,7 +2,7 @@
 
 __Package:__ spiderfoot
 
-__Version:,_ 4.0-0kali2
+__Version:__ 4.0-0kali2
 
 __Priority:__ optional
 
