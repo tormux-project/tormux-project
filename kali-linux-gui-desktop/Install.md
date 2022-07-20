@@ -19,6 +19,11 @@ sudo rm /var/lib/dpkg/info/udisks2.postinst
 echo "" >> /var/lib/dpkg/info/udisks2.postinst
 ```
 
+* Configure ( _dpkg_ )
+```
+sudo dpkg --configure -a
+```
+
 
 
 
