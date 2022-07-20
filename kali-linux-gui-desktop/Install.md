@@ -41,6 +41,9 @@ nano .vnc/xstartup
 
 * Make a command in `/usr/bin/` to make it easier to run _vncserver_ ( save it __CTRL+X Y ENTER__ )
 ```
+sudo nano /usr/bin/vncstart
+```
+```
 vncserver -geometry 1920x920 -xstartup /usr/bin/xfce4-session
 ```
 ![vncstart](https://i.ibb.co/Cw4BcGc/vncstart.jpg)
