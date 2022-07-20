@@ -37,8 +37,9 @@ nano .vnc/xstartup
 
 ![xstartup](https://i.ibb.co/8Y2RMD7/xstartup.jpg)
 
+### Run
 
-
+* Make a command in `/usr/bin/` to make it easier to run _vncserver_
 
 
 
