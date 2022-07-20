@@ -85,7 +85,16 @@ $ vncstart
 
 ### Vnc viewer
 
+* Set `localhost:1` and name ( _anything_ )
+
 ![localhost](https://i.ibb.co/MMycL11/lhost.jpg)
 
+* Picture quality ( _high_ )
+
 ![HQ](https://i.ibb.co/FVjX5JF/hq.jpg)
+
+* `Vncstart` ( _password_ )
+
+![password](https://i.ibb.co/48v0j08/password.jpg)
+
 
