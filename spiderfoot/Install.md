@@ -21,3 +21,5 @@ $ spiderfoot -l 127.0.0.1:9000
 ![spiderfoot](https://i.ibb.co/bFzsv04/spiderfoot.jpg)
 
 * Copy `http://127.0.0.1:9000` url and paste to your _browser_
+
+![spiderfoot](https://i.ibb.co/vqdpgM9/spiderfoot.jpg)
