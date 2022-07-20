@@ -51,10 +51,10 @@ $ sudo nano /usr/bin/vncstart
 ```
 
 ```
-vncserver -geometry 1920x920 -xstartup /usr/bin/xfce4-session
+vncserver -geometry 1920x920 -xstartup /usr/bin/xfce4-session :1
 ```
 
-![vncstart](https://i.ibb.co/Cw4BcGc/vncstart.jpg)
+![vncstart](https://i.ibb.co/xjWv5j4/vncstart.jpg)
 
 ```
 $ sudo chmod +x /usr/bin/vncstart
