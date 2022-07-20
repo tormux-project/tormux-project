@@ -10,3 +10,10 @@ $ nh
 ```
 $ sudo apt install spiderfoot
 ```
+### Run
+
+* `-l` __ip__ and __port__ to listen on
+
+```
+$ spiderfoot -l 127.0.0.1:9000
+```
