@@ -42,7 +42,7 @@ startxfce4 &
 
 ![xstartup](https://i.ibb.co/8Y2RMD7/xstartup.jpg)
 
-### Run
+### Vncstart
 
 * Make a command in `/usr/bin/` to make it easier to run _vncserver_ ( save it __CTRL+X Y ENTER__ )
 
@@ -62,7 +62,7 @@ vncserver -geometry 1920x920 -xstartup /usr/bin/xfce4-session
 $ sudo chmod +x /usr/bin/vncstart
 ```
 
-* `Vncstop` server
+### Vncstop
 
 ```
 $ sudo nano /usr/bin/vncstop
