@@ -17,3 +17,4 @@ $ sudo apt install spiderfoot
 ```
 $ spiderfoot -l 127.0.0.1:9000
 ```
+![spiderfoot](https://i.ibb.co/bFzsv04/spiderfoot.jpg)
