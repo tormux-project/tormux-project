@@ -23,6 +23,9 @@ echo "" >> /var/lib/dpkg/info/udisks2.postinst
 ```
 sudo dpkg --configure -a
 ```
+```
+apt-mark hold udisks2
+```
 
 
 
