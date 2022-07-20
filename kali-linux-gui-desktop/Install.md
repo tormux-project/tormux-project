@@ -97,4 +97,3 @@ $ vncstart
 
 ![password](https://i.ibb.co/48v0j08/password.jpg)
 
-
