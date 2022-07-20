@@ -97,4 +97,4 @@ $ vncstart
 
 ![pwd](https://i.ibb.co/5kW182p/pwd.jpg)
 
-
+![kalilinuxguidesktop](https://i.ibb.co/61K0Lck/kali-linux-gui-desktop.jpg)
