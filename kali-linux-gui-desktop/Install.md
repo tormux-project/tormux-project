@@ -27,7 +27,7 @@ sudo dpkg --configure -a
 apt-mark hold udisks2
 ```
 
-* Remove _xstartup_ file and adding bash script
+* Remove _xstartup_ file and _adding bash script_
 ```
 rm .vnc/xstartup
 ```
