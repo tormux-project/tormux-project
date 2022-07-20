@@ -54,11 +54,11 @@ $ sudo nano /usr/bin/vncstart
 vncserver -geometry 1920x920 -xstartup /usr/bin/xfce4-session
 ```
 
+![vncstart](https://i.ibb.co/Cw4BcGc/vncstart.jpg)
+
 ```
 $ sudo chmod +x /usr/bin/vncstart
 ```
-
-![vncstart](https://i.ibb.co/Cw4BcGc/vncstart.jpg)
 
 ```
 $ sudo nano /usr/bin/vncstop
@@ -67,7 +67,10 @@ $ sudo nano /usr/bin/vncstop
 ```
 vncserver -geometry 1920x920 -xstartup /usr/bin/xfce4-session -kill :1
 ```
+
+![vncstop](https://i.ibb.co/k2ZRYK6/vncstop.jpg)
+
 ```
 $ sudo chmod +x /usr/bin/vncstop
 ```
-![vncstop](https://i.ibb.co/k2ZRYK6/vncstop.jpg)
+
