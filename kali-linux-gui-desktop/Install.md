@@ -93,7 +93,7 @@ $ vncstart
 
 ![HQ](https://i.ibb.co/FVjX5JF/hq.jpg)
 
-* `Vncstart` ( _password_ )
+* `Vncstart` ( _password_ ) and _continue_
 
 ![pwd](https://i.ibb.co/5kW182p/pwd.jpg)
 
