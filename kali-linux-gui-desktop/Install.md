@@ -48,3 +48,11 @@ vncserver -geometry 1920x920 -xstartup /usr/bin/xfce4-session
 ```
 ![vncstart](https://i.ibb.co/Cw4BcGc/vncstart.jpg)
 
+```
+sudo nano /usr/bin/vncstop
+```
+```
+vncserver -geometry 1920x920 -xstartup /usr/bin/xfce4-session -kill :1
+```
+
+![vncstop](https://i.ibb.co/k2ZRYK6/vncstop.jpg)
