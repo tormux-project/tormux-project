@@ -56,7 +56,7 @@ $ sudo chmod +x /usr/bin/vncstart
 ![vncstart](https://i.ibb.co/Cw4BcGc/vncstart.jpg)
 
 ```
-sudo nano /usr/bin/vncstop
+$ sudo nano /usr/bin/vncstop
 ```
 
 ```
