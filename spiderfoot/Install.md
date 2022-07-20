@@ -2,7 +2,7 @@
 
 ### Installation
 
-* Install `spiderfoot` on [nethunter-rootless](../nethunter-rootless)
+* [nethunter-rootless](../nethunter-rootless) must already be installed on _termux_ 
 * Open your termux
 ```
 $ nh
