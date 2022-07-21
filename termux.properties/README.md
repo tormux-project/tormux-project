@@ -11,12 +11,12 @@ This file is useful for `additional key settings`, such as displaying up and dow
 
 # Donate for a cup of coffee ☕🥯
 
-### BUSD (`BEP20`):
+>[`CONNECT METAMASK WALLET`](https://metamask.io/)
+
+>`Binance USD (BEP20)`
 
 ```
 0xc37e1014230433a704bd0111ab853e682f07b794
 ```
 
-![metamask](https://i.ibb.co/C0HGYDQ/metamask.png)
-
-
+![metamask](https://i.ibb.co/fMLqkcm/metamask.png)
