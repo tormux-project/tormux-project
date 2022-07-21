@@ -2,7 +2,7 @@
 
 ### Installation
 
->* Before running `kali linux gui desktop` you have to install [nethunter-rootless](../nethunter-rootless) and download [vnc-viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)  
+> Before running `kali linux gui desktop` you have to install [nethunter-rootless](../nethunter-rootless) and download [vnc-viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)  
 
 ```
 $ nh
@@ -19,7 +19,7 @@ $ sudo rm /var/lib/dpkg/info/udisks2.postinst
 $ echo "" >> /var/lib/dpkg/info/udisks2.postinst
 ```
 
->* Configure ( _dpkg_ )
+> Configure ( _dpkg_ )
 ```
 $ sudo dpkg --configure -a
 ```
@@ -27,7 +27,7 @@ $ sudo dpkg --configure -a
 $ apt-mark hold udisks2
 ```
 
->* Remove _xstartup_ file and _adding bash script_ ( save it __CTRL+X Y ENTER__ )
+> Remove _xstartup_ file and _adding bash script_ ( save it __CTRL+X Y ENTER__ )
 ```
 $ rm .vnc/xstartup
 ```
@@ -44,7 +44,7 @@ startxfce4 &
 
 ### Vncstart
 
->* Make a command in `/usr/bin/` to make it easier to run _vncserver_ ( save it __CTRL+X Y ENTER__ )
+> Make a command in `/usr/bin/` to make it easier to run _vncserver_ ( save it __CTRL+X Y ENTER__ )
 
 ```
 $ sudo nano /usr/bin/vncstart
@@ -78,13 +78,13 @@ $ sudo chmod +x /usr/bin/vncstop
 
 ### Run
 
->* Start `vncserver`
+> Start `vncserver`
 
 ```
 $ vncstart
 ```
 
->* Stop `vncserver`
+> Stop `vncserver`
 
 ```
 $ vncstop
@@ -94,15 +94,15 @@ $ vncstop
 
 ### Vnc viewer
 
->* Set `localhost:1` and name ( _anything_ )
+> Set `localhost:1` and name ( _anything_ )
 
 ![localhost](https://i.ibb.co/MMycL11/lhost.jpg)
 
->* Picture quality ( _high_ )
+> Picture quality ( _high_ )
 
 ![HQ](https://i.ibb.co/FVjX5JF/hq.jpg)
 
->* `Vncstart` ( _password_ ) and _continue_
+> `Vncstart` ( _password_ ) and _continue_
 
 ![pwd](https://i.ibb.co/5kW182p/pwd.jpg)
 
