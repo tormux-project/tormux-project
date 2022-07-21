@@ -17,15 +17,15 @@ initdb $PREFIX/var/lib/postgresql
 
 ### Run
 
-* `Starting` the `database`
+> `Starting` the `database`
 ```
 pg_ctl -D $PREFIX/var/lib/postgresql start
 ```
 
-* `Stopping` the `database`
+> `Stopping` the `database`
 ```
 pg_ctl -D $PREFIX/var/lib/postgresql stop
 ```
-* `Postgresql` can be run with [metasploit-framework](../metasploit-framework)
+>* `Postgresql` can be run with [metasploit-framework](../metasploit-framework)
 
-* You can scan it with [nmap](../nmap) if the `port` is `running`
+>* You can scan it with [nmap](../nmap) if the `port` is `running`
