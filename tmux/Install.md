@@ -11,7 +11,7 @@ $ tmux
 ```
 
 ### Usage
-* Split `terminal` etc
+> Split `terminal` etc
 ```
 CTRL+B " - split pane horizontally
 
@@ -29,10 +29,10 @@ Hold CTRL+B (don’t release it and hold one of the arrow keys — resize pane)
 ```
 ![tmux](https://i.ibb.co/GH5RtsW/tmux.jpg)
 
-* Quitting `terminal`
+> Quitting `terminal`
 ```
 CTRL+D close a single pane
 ```
 
 ### More Information
-* [Tmux](https://man.openbsd.org/OpenBSD-current/man1/tmux.1) from _OpenBSD_ manual page server
+> [Tmux](https://man.openbsd.org/OpenBSD-current/man1/tmux.1) from _OpenBSD_ manual page server
