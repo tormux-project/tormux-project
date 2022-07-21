@@ -14,7 +14,7 @@ $ apachectl start
 
 ### Setup
 ```
-echo "ServerName localhost" >> $PREFIX/etc/apache2
+$ echo "ServerName localhost" >> $PREFIX/etc/apache2
 ```
 
 * __Stop apache2__
@@ -35,7 +35,7 @@ $ apachectl start
 $ apt install nano
 ```
 ```
-nano $PREFIX/etc/apache2/httpd.conf
+$ nano $PREFIX/etc/apache2/httpd.conf
 ```
 
 * Change the `port 8081`_etc_
@@ -43,15 +43,9 @@ nano $PREFIX/etc/apache2/httpd.conf
 ![apache-port](https://i.ibb.co/F8JZFKd/apacheport.jpg)
 
 ### Save
-```
-CTRL + X
-```
-```
-Y
-```
-```
-Enter
-```
+
+> CTRL+X Y ENTER
+
 
 ### Web Browser
 
