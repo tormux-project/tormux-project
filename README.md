@@ -9,6 +9,6 @@ is a project to learn about _system hacking activities_ with `Termux`.
 ```
 0xc37e1014230433a704bd0111ab853e682f07b794
 ```
-### [`Connect Metamask`](https://metamask.io/)
+### [`Connect Metamask Wallet`](https://metamask.io/)
 
 ![metamask](https://i.ibb.co/fMLqkcm/metamask.png)
