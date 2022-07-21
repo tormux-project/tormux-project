@@ -2,7 +2,7 @@
 
 ### Installation
 
-* [nethunter-rootless](../nethunter-rootless) must already be installed on _termux_ 
+> [nethunter-rootless](../nethunter-rootless) must already be installed on _termux_ 
 
 ```
 $ nh
@@ -12,7 +12,7 @@ $ sudo apt install spiderfoot
 ```
 ### Run
 
-* `-l` __ip__ and __port__ to listen on
+> `-l` __ip__ and __port__ to listen on
 
 ```
 $ spiderfoot -l 127.0.0.1:9000
@@ -22,7 +22,7 @@ $ spiderfoot -l 127.0.0.1:9000
 
 ### Browser
 
-* Copy `http://127.0.0.1:9000` url and paste to your _browser_
+> Copy `http://127.0.0.1:9000` url and paste to your _browser_
 
 ![spiderfoot](https://i.ibb.co/vqdpgM9/spiderfoot.jpg)
 
