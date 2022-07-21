@@ -11,4 +11,3 @@ is a project to learn about _system hacking activities_ with `Termux`.
 ```
 
 ![metamask](https://i.ibb.co/fMLqkcm/metamask.png)
-
