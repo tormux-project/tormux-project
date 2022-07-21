@@ -29,12 +29,12 @@ $ cloudflared http 8080
 
 ## Stop
 
-__Cloudflared__
+>* __Cloudflared__
 ```
 CTRL + C
 ```
 
-__Apache2 server__
+>* __Apache2 server__
 ```
 $ apachectl stop
 ```
