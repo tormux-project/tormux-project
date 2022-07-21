@@ -28,7 +28,7 @@ __Description:__ `Apache Web Server`
 
 >[`CONNECT METAMASK WALLET`](https://metamask.io/)
 
->BUSD ( `BEP20` )
+>`Binance USD (BEP20)`
 
 ```
 0xc37e1014230433a704bd0111ab853e682f07b794
