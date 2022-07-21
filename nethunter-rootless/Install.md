@@ -51,7 +51,7 @@ Open termux and type one of the following command
 
 ### More Information
 
-* You can run [nethunter gui desktop](../nethunter-gui-desktop) after installing _nethunter rootless_
+* You can run [nethunter gui desktop](../nethunter-gui-desktop) or [kali linux gui desktop](../kali-linux-gui-desktop) after installing _nethunter rootless_
 
 ![kali](https://i.ibb.co/MswyhmR/kali.jpg)
 
