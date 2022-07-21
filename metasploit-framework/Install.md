@@ -18,18 +18,18 @@ $ chmod +x metasploit.sh
 * The script will _configure_ and _setup_ the `metasploit-framework` automatically
 
 ```
-./metasploit.sh
+$ ./metasploit.sh
 ```
 
 * If the `download` and `configuration` process is complete
 * `Msf6` is ready to use and don't forget to run [postgresql](../postgresql)
 
 ```
-msfconsole
+$ msfconsole
 ```
 ![metasploit](https://i.ibb.co/JtxG5C8/metasploit.jpg)
 
 * Now you can _generate payload_
 ```
-msfvenom
+$ msfvenom
 ```
