@@ -79,10 +79,15 @@ $ sudo chmod +x /usr/bin/vncstop
 ### Run
 
 >* Start `vncserver`
+
 ```
 $ vncstart
 ```
+
 >* Stop `vncserver`
+
+```
+$ vncstop
 ```
 
 ![vncstart](https://i.ibb.co/7XV7P60/vncstart.jpg)
