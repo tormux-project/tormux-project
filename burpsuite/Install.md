@@ -10,3 +10,8 @@ $ nh
 ```
 $ sudo apt install burpsuite
 ``` 
+### Run
+
+```
+$ burpsuite
+```
