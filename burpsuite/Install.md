@@ -16,7 +16,7 @@ $ sudo apt install burpsuite
 $ burpsuite
 ```
 
-> Will _automatically_ appear on the screen
+> _Automatically_ appear on the screen
 
 ![burpsuite](https://i.ibb.co/gwr64Wr/burpsuite.jpg)
 
